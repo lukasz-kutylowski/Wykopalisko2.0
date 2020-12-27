@@ -1,4 +1,4 @@
-# **Wykopalisko 2.1 Web Application**
+# **Wykopalisko 2.2 Web Application**
 
 www.wykopalisko.herokuapp.com
 
